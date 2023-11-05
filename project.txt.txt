@@ -1,0 +1,17 @@
+/Kaitlyn Peters
+/CS 2614
+/Project
+
+ORG 100 /start at addr 100
+/variables
+
+
+
+/convert the num
+
+
+
+/loop through
+
+
+END /stop program
